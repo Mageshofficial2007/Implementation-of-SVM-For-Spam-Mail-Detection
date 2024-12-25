@@ -66,7 +66,9 @@ acc
 ```
 
 Program to implement the SVM For Spam Mail Detection..
+
 Developed by: MAGESH BOOPATHI.M
+
 RegisterNumber:  24900855
 
 ## Output:
